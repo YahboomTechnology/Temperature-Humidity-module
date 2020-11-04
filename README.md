@@ -13,7 +13,7 @@ Temperature and humidity module is a composite sensor that can output digital si
 * Combined with other components to make creative works, such as temperature and humidity sensors, temperature control fans, etc.
 
 # Required Best Buy Links
-[By on Yahboom website](https://category.yahboom.net/collections/rp-smart-robot/products/g1tank)
+[By on Yahboom website](https://category.yahboom.net/products/temperature-and-humidity-sensor-module)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
